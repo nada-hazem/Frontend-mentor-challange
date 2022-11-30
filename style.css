@@ -18,7 +18,7 @@ body {
   max-width: 290px;
 }
 
-h3,
+h1,
 p {
   background-color: hsl(0, 0%, 100%);
   padding: 15px;
@@ -30,7 +30,7 @@ p {
   font-size: 15px;
 }
 
-h3 {
+h1 {
   color: hsl(218, 44%, 22%);
 }
 .qrcard {
